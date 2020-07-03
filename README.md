@@ -1,2 +1,2 @@
-# vgg19_pretrained_oct-mh-
-vgg19_pretrained_oct-mg-dataset
+# vgg16_pretrained_oct-mh-
+vgg16_pretrained_oct-mg-dataset
